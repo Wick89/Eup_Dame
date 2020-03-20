@@ -1,2 +1,2 @@
 # Eup_Dame
-Eup_Dame er dametøj til fivem
+Eup_Dame er dametøj + hår til fivem
